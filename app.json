@@ -23,7 +23,9 @@
         "backgroundColor": "#ffffff"
       }
     },
+    "scheme": "acme",
     "web": {
+      "bundler": "metro",
       "favicon": "./assets/favicon.png"
     }
   }
